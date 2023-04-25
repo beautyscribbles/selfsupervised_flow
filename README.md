@@ -5,10 +5,10 @@ Stefan Baur<sup>\*</sup>, David Emmerichs<sup>\*</sup>, Frank Moosmann, Peter Pi
 
 <img src="resources/teaser.jpg" alt="Teaser Image" width="768"/>
 
-## Presentation Video
-[![Watch the video](https://img.youtube.com/vi/z34H43BOEVw/maxresdefault.jpg)](https://youtu.be/z34H43BOEVw)
+## PRESENTATION VIDEOS
+![Watch the video](https://img.youtube.com/vi/z34H43BOEVw/maxresdefault.jpg)](https://youtu.be/z34H43BOEVw)
 
-## Installation
+ ## INSTALLATION
 
 This repository has been developed and tested for
 * Ubuntu 18.04
@@ -114,7 +114,11 @@ Coordinate system: Positive z-Axis is opposite to the direction of gravity, x is
 The origin should be around 1.7m above ground and in the center of the recording sensor.
 
 
-## Cite
+##FOR CONTRIBUTIONS: 
+For this, use the dataset creation scripts in the folder here: unsup_flow/datasets/ where you can find each create.py script for the respective datasets. Run each script once to convert the datasets into our format. 
+
+
+## CITE
 
  ```latex
  @InProceedings{Baur_2021_ICCV,
@@ -127,8 +131,8 @@ The origin should be around 1.7m above ground and in the center of the recording
 }
  ```
 
-## Legal Information
-Source code has been tested solely for our own use cases, which might differ from yours.
+## LEGAL CONTRIBUTIONS
+So the code has been tested solely for our use cases, which might differ from yours.
 Notice: Before you use the program in productive use, please take all necessary precautions, e.g. testing and verifying the program with regard to your specific use.
 
 [Code of Conduct](CODE_OF_CONDUCT.md)
